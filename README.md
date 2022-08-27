@@ -23,4 +23,4 @@
 
 ### GitHub Stats
 
-[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra&theme=dark)](https://github.com/KasRoudra/stats-card)
+[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=airhead2048&theme=dark)](https://github.com/KasRoudra/stats-card)
