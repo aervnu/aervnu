@@ -23,4 +23,4 @@
 
 ### GitHub Stats
 
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=airhead2048&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra&theme=dark)](https://github.com/KasRoudra/stats-card)
