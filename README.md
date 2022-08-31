@@ -13,6 +13,10 @@
 
 - :zap: I usually write code, read tech articles, and play games (especially Geometry Dash and MSFS20) in my free time. Or I just design and render random stuff on my workstation.
 
+- 🌐 You might be interested in the computer browsers I use. No offense, but only Google Chrome and Microsoft Edge provide sufficient securuity. Not a Google or Microsoft fanboy or anything, but browsers like Brave literally redirects you to their crypto BS, Vivaldi just being a reskinned version of Chrome, and Firefox with their HORRIBLE sandboxing-container tabs are kinda worthless, at least until version 95-we'll wait and see. Edge has proper sandboxing and nice security mitigations and if you're not fine with any website breaking then there's the whitelist for you.
+
+Again this isn't me fanboying any companies. These are simply facts I collected.
+
 ### How to reach me
 
 - [Discord](https://discordapp.com/users/717255311060238387)
