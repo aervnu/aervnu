@@ -23,7 +23,15 @@ Again this isn't me fanboying any companies. These are simply facts I collected.
 
 - [Telegram](https://t.me/simplyadrian)
 
-- [Email](icorei783@gmail.com) (yes google chose it for me)
+- [Gmail](mailto:icorei783@gmail.com) (yes google chose it for me)
+
+- [Microsoft Outlook 365 E5](mailto:ntauthority@5lzzzn.onmicrosoft.com)
+
+- [Backup Microsoft Outlook Personal](mailto:icorei783@outlook.com.vn) (copied from Gmail)
+
+- [Facebook Messenger](https://facebook.com/giorno001)
+
+Note that clicking email links should open your desktop email client by default. On Windows you can use Microsoft Outlook or Mozilla Thunderbird, on Linux use Thunderbird, and on macOS just use Apple Mail to open `mailto` links.
 
 ### GitHub Stats
 
