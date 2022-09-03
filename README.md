@@ -7,6 +7,8 @@
 
 ### About me
 
+- 🌍 First off, let me introduce myself. I'm Khanh, commonly known as Adrian globally. I'm a Vietnamese person born in 2007. Briefly saying, I have considerable knowledge about computer usage and troubleshooting (In the very case that your definition of 'considerable' is different, let me know. I like people who think differently from everyone else in this world.). Still learning to code though, read below for more information.
+
 - :telescope: Well...I'm a student. A high school student. I don't usually work except in summer holidays where I work as an intern in the IT helpdesk in my dad's company. (psst...I earn $2 hourly there dealing with eye-gourging cases of malfunctioning client computers.)
 
 - :seedling: I'm learning C++ and C#.
