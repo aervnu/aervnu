@@ -7,7 +7,7 @@
 
 ### About me
 
-- :telescope: Well...I'm a student. A high school student. I don't usually work except in summer holidays where I work as an intern in the IT helpdesk in my dad's company.
+- :telescope: Well...I'm a student. A high school student. I don't usually work except in summer holidays where I work as an intern in the IT helpdesk in my dad's company. (psst...I earn $2 hourly there dealing with eye-gourging cases of malfunctioning client computers.)
 
 - :seedling: I'm learning C++ and C#.
 
