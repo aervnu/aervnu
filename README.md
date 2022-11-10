@@ -23,7 +23,7 @@ Again this isn't me fanboying any companies. These are simply facts I collected.
 
 - [Discord](https://discordapp.com/users/717255311060238387)
 
-- [Telegram](https://t.me/simplyadrian)
+- [Telegram](https://t.me/andydehmaniac)
 
 - [Gmail](mailto:icorei783@gmail.com) (yes google chose it for me)
 
@@ -37,4 +37,4 @@ Note that clicking email links should open your desktop email client by default.
 
 ### GitHub Stats
 
-[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=ptr64-llvm&theme=dark)](https://github.com/KasRoudra/stats-card)
+[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=sprono&theme=dark)](https://github.com/KasRoudra/stats-card)
