@@ -37,4 +37,4 @@ Note that clicking email links should open your desktop email client by default.
 
 ### GitHub Stats
 
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprono&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprono&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
