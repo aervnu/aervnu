@@ -31,7 +31,7 @@ Again this isn't me fanboying any companies. These are simply facts I collected.
 
 - [Backup Microsoft Outlook Personal](mailto:icorei783@outlook.com.vn) (copied from Gmail)
 
-- [Facebook Messenger](https://facebook.com/adxn1024)
+- [Facebook Messenger](https://facebook.com/altax1984)
 
 Note that clicking email links should open your desktop email client by default. On Windows you can use Microsoft Outlook or Mozilla Thunderbird, on Linux use Thunderbird, and on macOS just use Apple Mail to open `mailto` links.
 
