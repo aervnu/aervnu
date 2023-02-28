@@ -17,9 +17,7 @@
 
 - 📸 I've also taken up photography as well, and I main landscape plus macro. My gear includes a Sony α6000 @ Tamron 17-70 f/2.8 and FE 50 f/2.8 MACRO with a Canon EOS 750D @ kit and Tamron 17-50 f/2.8.
 
-- 🌐 You might be interested in the computer browsers I use. No offense, but only Google Chrome and Microsoft Edge provide sufficient security. Not a Google or Microsoft fanboy or anything, but browsers like Brave literally redirects you to their crypto BS, Vivaldi just being a reskinned version of Chrome, and Firefox with their HORRIBLE sandboxing-container tabs are kinda worthless, at least until version 95-we'll wait and see. Edge has proper sandboxing and nice security mitigations and if you're not fine with any website breaking then there's the whitelist for you.
-
-Again this isn't me fanboying any companies. These are simply facts I collected. I don't talk customizability with people that can't be bothered to waste a few mouseclicks shutting off unnecessary features.
+- 🌐 You might be interested in the computer browsers I use. No offense, but only Google Chrome and Microsoft Edge provide sufficient security. Not a Google or Microsoft fanboy or anything, but browsers like Brave literally redirects you to their crypto BS, Vivaldi just being a reskinned version of Chrome, and Firefox with their HORRIBLE sandboxing-container tabs are kinda worthless, at least until version 95-we'll wait and see. Edge has proper sandboxing and nice security mitigations and if you're not fine with any website breaking then there's the whitelist for you. (Again this isn't me fanboying any companies. These are simply facts I collected.)
 
 ### How to reach me
 
