@@ -13,9 +13,9 @@
 
 - :seedling: I'm learning C++ and C#.
 
-- :atom: I usually write code, read tech articles, and play games (especially Geometry Dash and MSFS20) in my free time.
+- :atom: I usually write code, read tech articles, and play games (MSFS20 & HSR) in my free time.
 
-- 📸 I've also taken up photography as well, and I main landscape plus macro. My gear includes a Sony α6000 @ Tamron 17-70 f/2.8 and FE 50 f/2.8 MACRO with a Canon EOS 750D @ kit and Tamron 17-50 f/2.8.
+- 📸 I've also taken up photography as well, and I main landscape plus macro. My gear includes a Canon EOS 6D Mark II with EF 2.8/24-70 II L USM, 2.8/70-200 III L IS USM, 1.4/35 II L USM and 1.4/50 USM, along with a Fujifilm X-T2 and XF 4/16-80 R OIS WR.
 
 - 🌐 You might be interested in the computer browsers I use. No offense, but only Google Chrome and Microsoft Edge provide sufficient security. Not a Google or Microsoft fanboy or anything, but browsers like Brave literally redirects you to their crypto BS, Vivaldi just being a reskinned version of Chrome, and Firefox with their HORRIBLE sandboxing-container tabs are kinda worthless, at least until version 95-we'll wait and see. Edge has proper sandboxing and nice security mitigations and if you're not fine with any website breaking then there's the whitelist for you. (Again this isn't me fanboying any companies. These are simply facts I collected.)
 
@@ -29,9 +29,9 @@
 
 - [Microsoft Outlook 365 E5](mailto:ntauthority@5lzzzn.onmicrosoft.com)
 
-- [Backup Microsoft Outlook Personal](mailto:icorei783@outlook.com.vn) (copied from Gmail)
+- [(Backup) Microsoft Outlook Personal](mailto:icorei783@outlook.com.vn) (copied from Gmail)
 
-- [Facebook Messenger](https://facebook.com/altax1984)
+- [Facebook Messenger](https://facebook.com/adxn1024)
 
 Note that clicking email links should open your desktop email client by default. On Windows you can use Microsoft Outlook or Mozilla Thunderbird, on Linux use Thunderbird, and on macOS just use Apple Mail to open `mailto` links.
 
