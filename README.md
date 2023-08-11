@@ -32,7 +32,3 @@
 - [Facebook Messenger](https://facebook.com/adxn1024)
 
 Note that clicking email links should open your desktop email client by default. On Windows you can use Microsoft Outlook or Mozilla Thunderbird, on Linux use Thunderbird, and on macOS just use Apple Mail to open `mailto` links.
-
-### GitHub Stats
-
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprono&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
