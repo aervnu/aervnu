@@ -1,5 +1,5 @@
 <h1>
-  Hi there! Andy here.
+  Andy here.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -11,7 +11,7 @@
 
 - 🔭: Jobless for now. I'll continue throughout university I suppose.
 
-- :atom: Code & games. (HSR UID 813551157 Asia)
+- :atom: Code & games. (HSR UID `813551157` Asia)
 
 - 📸 Photo enthusiast, but haven't produced shit so far. Big failure.
 
