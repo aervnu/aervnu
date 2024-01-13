@@ -9,7 +9,7 @@
 
 - 🌐 2007 born maniac. Nothing else to say. Least I've a girlfriend.
 
-- 🔭: Jobless for now. I'll continue throughout university I suppose.
+- 🔭 Jobless for now. I'll continue throughout university I suppose.
 
 - :atom: Code & games. (HSR UID `813551157` Asia)
 
