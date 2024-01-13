@@ -7,15 +7,13 @@
 
 ### About me
 
-- 🌍 First off, let me introduce myself. I'm Khanh, commonly known as Andy globally. I'm a Vietnamese person born in 2007. Briefly saying, I have considerable knowledge about computer usage and troubleshooting (In the very case that your definition of 'considerable' is different, let me know. I like people who think differently from everyone else in this world.). Still learning to code though, read below for more information. I am also a VERY IRRESPONSIBLE person.
+- 🌐 2007 born maniac. Nothing else to say. Least I've a girlfriend.
 
-- :telescope: Well...I'm a student. Jobless for now. I'll continue throughout university, I suppose.
+- 🔭: Jobless for now. I'll continue throughout university I suppose.
 
-- :seedling: I'm learning C++ and C#.
+- :atom: Code & games. (HSR UID 813551157 Asia)
 
-- :atom: I usually write code, read tech articles, and play games (MSFS20 & HSR) in my free time.
-
-- 📸 I've also taken up photography as well, and I main landscape plus macro and portrait.
+- 📸 Photo enthusiast, but haven't produced shit so far. Big failure.
 
 ### How to reach me
 
@@ -29,6 +27,4 @@
 
 - [(Backup) Microsoft Outlook Personal](mailto:icorei783@outlook.com.vn) (copied from Gmail)
 
-- [Facebook Messenger](https://facebook.com/adxn1024)
-
-Note that clicking email links should open your desktop email client by default. On Windows you can use Microsoft Outlook or Mozilla Thunderbird, on Linux use Thunderbird, and on macOS just use Apple Mail to open `mailto` links.
+- [Facebook Messenger](https://facebook.com/ea.gremlin)
