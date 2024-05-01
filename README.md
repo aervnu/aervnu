@@ -18,8 +18,8 @@
 
 - [Discord](https://discordapp.com/users/717255311060238387)
 
-- [Gmail](mailto:icorei783@gmail.com) (yes google chose it for me)
+- [Gmail](mailto:icorei783@gmail.com)
 
-- [Outlook](mailto:icorei783@outlook.com.vn) (copied from Gmail)
+- [Outlook](mailto:icorei783@outlook.com.vn)
 
 - [Messenger](https://facebook.com/aervnu)
