@@ -18,8 +18,8 @@
 
 - [Discord](https://discordapp.com/users/717255311060238387)
 
-- [Gmail](mailto:aervnu@gmail.com)
-
-- [Outlook](mailto:icorei783@outlook.com.vn)
+- [Work email](mailto:aervnu@gmail.com)
 
 - [Messenger](https://facebook.com/aervnu)
+
+- [Signal](https://signal.me/#eu/GzuQlUo5hWHjbngK7sIXAjiHMRavHLgoLA-K11mlXCSzI7DSszlI1ZbGpi8_suMp)
