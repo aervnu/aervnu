@@ -10,7 +10,7 @@
 
 - 🔭 Jobless for now. I'll continue throughout university I suppose.
 
-- :atom: Hobby? Code & games (and messing with hardware). (HSR UID `813551157` Asia)
+- :atom: Hobby? Gaming (and networking).
 
 - 📸 Photo enthusiast, but haven't produced shit so far. Big failure.
 
