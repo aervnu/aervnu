@@ -2,15 +2,13 @@
   Still dead. Thanks for checking.
 </h1>
 
----
-
 ### About me
 
-- 🌐 2007 born maniac. Nothing else to say. 
+- 🌐 2007 born maniac.
 
-- 🔭 Jobless for now. I'll continue throughout university I suppose.
+- 🔭 Jobless for now.
 
-- ✨ Hobby? Photo. Regex. Gaming. And networking.
+- ✨ Photo, regex, gaming and networking are my hobbies.
 
 ### How to reach me
 
