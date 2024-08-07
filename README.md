@@ -18,4 +18,4 @@
 
 - [Signal](https://signal.me/#eu/GzuQlUo5hWHjbngK7sIXAjiHMRavHLgoLA-K11mlXCSzI7DSszlI1ZbGpi8_suMp)
 
-- Head to my [site](aervnu.moe) to find out more.
+- Head to [my site](aervnu.moe) to find out more.
