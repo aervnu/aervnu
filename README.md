@@ -17,3 +17,7 @@
 - [Signal](https://signal.me/#eu/GzuQlUo5hWHjbngK7sIXAjiHMRavHLgoLA-K11mlXCSzI7DSszlI1ZbGpi8_suMp)
 
 - Head to [my site](https://aervnu.moe) to find out more.
+
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=aervnu&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
