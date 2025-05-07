@@ -4,9 +4,7 @@
 
 - 2007 born maniac.
 
-- Jobless for now.
-
-- Photo, regex, gaming and networking are my hobbies.
+- I like guns, cannons, missiles, and fighters. Plus photo, regex, and networking.
 
 ## How to reach me
 
