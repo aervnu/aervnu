@@ -4,7 +4,7 @@
 
 - 2007 born maniac.
 
-- I like guns, cannons, missiles, and fighters. Plus photo, regex, and networking.
+- I like guns, cannons, missiles, and fighters. Plus photo, regex, and networking. Currently building a homelab.
 
 ## How to reach me
 
@@ -14,7 +14,4 @@
 
 - [Signal](https://signal.me/#eu/Z5lNWnCkhRFmLwj2HOi2Yy8YQG7TV-htO6IjLIK70IR74zm0EJ5ID65L3zbQoY_f)
 
-- Head to [my site](https://aervnu.moe) to find out more.
-
-## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=aervnu&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+- Head to [my site](https://aervnu.moe) to find out more. (Devices page is currently not working. I'll fix that after my finals.)
