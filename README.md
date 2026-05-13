@@ -10,7 +10,7 @@
 
 - [Discord](https://discordapp.com/users/717255311060238387)
 
-- [Work email](mailto:andy@aervnu.moe)
+- [Work email](mailto:aervnu@gmail.com)
 
 - [Signal](https://signal.me/#eu/Z5lNWnCkhRFmLwj2HOi2Yy8YQG7TV-htO6IjLIK70IR74zm0EJ5ID65L3zbQoY_f)
 
